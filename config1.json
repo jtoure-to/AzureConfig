@@ -1,0 +1,1776 @@
+{
+  "settings": [
+    {
+      "id": "13045F1A57D30EC6A8DFF9314AFCBF07216E8B717E84D9E23E0D37BA7572AFC5",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "General",
+      "settingKey": "fxs-theme",
+      "data": {
+        "colorCode": "#0078d4",
+        "imageUri": "https://portal.azure.com/Content/6.0.303.241056001005.200619-2251/Images/MsPortalImpl/Themes/Theme_Azure.png",
+        "svg": {
+          "type": 379,
+          "options": null
+        },
+        "name": "azure",
+        "title": "Azure",
+        "mode": 0
+      },
+      "_rid": "DnIFAOpieQB4qTYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQB4qTYAAABACA==/",
+      "_etag": "\"20004487-0000-0200-0000-5ef87a410000\"",
+      "_attachments": "attachments/",
+      "_ts": 1593342529
+    },
+    {
+      "id": "AFFEAC60FA488D9D24AB9BF7CF032DFF6770D1023C1D5D0F5660D0171B84BAB4",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "General",
+      "settingKey": "landingPage",
+      "data": 1,
+      "_rid": "DnIFAOpieQB5qTYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQB5qTYAAABACA==/",
+      "_etag": "\"08061772-0000-0200-0000-5e0f0f930000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578045331
+    },
+    {
+      "id": "DA42917D0CE0D75BB1384EF516EBE599D05E1FB1DBE1060123DE29A7F1A765FB",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "Startboard",
+      "settingKey": "sprint2",
+      "data": {
+        "startBoardId": "Startboard"
+      },
+      "_rid": "DnIFAOpieQB6qTYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQB6qTYAAABACA==/",
+      "_etag": "\"08062472-0000-0200-0000-5e0f0f930000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578045331
+    },
+    {
+      "id": "EA2EDC8DD52636995C03339FB736B9A4A2E49E097CDF3F550240AFF7C0211390",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "HubsExtension",
+      "settingKey": "subscriptions_selected",
+      "data": "863d1a91-13e3-47b7-b670-d5dbc6865d42",
+      "_rid": "DnIFAOpieQB7qTYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQB7qTYAAABACA==/",
+      "_etag": "\"08062f72-0000-0200-0000-5e0f0f930000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578045331
+    },
+    {
+      "id": "85290933FFEC0203F30145D5995517A06B0D92A786AFF60103C1BF486BA93E80",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "Favorites",
+      "settingKey": "favorites",
+      "data": "[\"HubsExtension_BrowseAllResources\",\"HubsExtension_ResourceGroups\",\"Microsoft_Azure_Resources_Quickstart\",\"WebsitesExtension_Website\",\"WebsitesExtension_Website.functionapp\",\"SqlAzureExtension_Database\",\"Microsoft_Azure_DocumentDB_DocumentDBDatabaseAccount\",\"Microsoft_Azure_Compute_VirtualMachine\",\"Microsoft_Azure_Network_LoadBalancer\",\"Microsoft_Azure_Storage_StorageAccount\",\"Microsoft_Azure_Network_VirtualNetwork\",\"Microsoft_AAD_IAM_AzureActiveDirectory\",\"Microsoft_Azure_Monitoring_AzureMonitoring\",\"Microsoft_Azure_Expert_AzureAdvisor\",\"Microsoft_Azure_Security_SecurityDashboard\",\"Microsoft_Azure_GTM_Billing\",\"Microsoft_Azure_Support_HelpAndSupport\"]",
+      "_rid": "DnIFAOpieQB8qTYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQB8qTYAAABACA==/",
+      "_etag": "\"08063c72-0000-0200-0000-5e0f0f930000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578045331
+    },
+    {
+      "id": "B79415DFC201E1F027D28E37FA73EFF5C49C218C16E20B0CB82394D6A91F00F2",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "store": "FirstVisited",
+      "settingKey": "FirstVisitedTimestamp",
+      "data": 1578045330515,
+      "_rid": "DnIFAOpieQB9qTYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQB9qTYAAABACA==/",
+      "_etag": "\"08064b72-0000-0200-0000-5e0f0f930000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578045331
+    },
+    {
+      "id": "6EFFC0F96357DF90F6AA33EE737AE43C3E1E923302144EE6D82D051D2A1E5150",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "store": "CrossTenant",
+      "settingKey": "userDefaultDirectory",
+      "data": {
+        "id": "21143689-1853-47f3-b143-5462761705f6",
+        "displayName": "-*ujitsu Services United Kingdom",
+        "domainName": "FujitsuUKI.onmicrosoft.com"
+      },
+      "_rid": "DnIFAOpieQB+qTYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQB+qTYAAABACA==/",
+      "_etag": "\"08065b72-0000-0200-0000-5e0f0f930000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578045331
+    },
+    {
+      "id": "13441B1853D537544087820D473F49093CBD87B65C2CB957C3A83513C6008E1D",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "store": "CrossTenant",
+      "settingKey": "WelcomeSequence",
+      "data": {
+        "viewed": 1578045335271,
+        "action": 2
+      },
+      "_rid": "DnIFAOpieQCEqTYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQCEqTYAAABACA==/",
+      "_etag": "\"08063d76-0000-0200-0000-5e0f0f9c0000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578045340
+    },
+    {
+      "id": "0C63D42D9A81C4AA09CCC096ABE426A1B372C2D7EDB58FBD61AF70DAA5E7F025",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "store": "CrossTenant",
+      "settingKey": "LeftNavBubble",
+      "data": {
+        "viewed": 1578045335271
+      },
+      "_rid": "DnIFAOpieQCFqTYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQCFqTYAAABACA==/",
+      "_etag": "\"08064976-0000-0200-0000-5e0f0f9c0000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578045340
+    },
+    {
+      "id": "FCC7937C1F0A6A355BB515C5E6A7B8BED4EBBC5828E019CAE7261082CD9FF79E",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "HubsExtension",
+      "settingKey": "gallery_create_lastDeployed_galleryItems",
+      "data": {
+        "Microsoft.BatchAccount": 1578400956705,
+        "Microsoft.VirtualMachine": 1578472202701,
+        "Microsoft.DevTestLab": 1578573876862,
+        "Microsoft.FunctionApp": 1580370376431,
+        "Microsoft.WebSite": 1592314371804
+      },
+      "_rid": "DnIFAOpieQBBqjYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQBBqjYAAABACA==/",
+      "_etag": "\"2400eeb8-0000-0200-0000-5ee8ca080000\"",
+      "_attachments": "attachments/",
+      "_ts": 1592314376
+    },
+    {
+      "id": "13E0811033FDD3561F41E449CB0309F99C119B0586E34D34BBBB018E8B9A4A78",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "HubsExtension",
+      "settingKey": "gallery_createLauncher_lastUsed_subscriptionId",
+      "data": "863d1a91-13e3-47b7-b670-d5dbc6865d42",
+      "_rid": "DnIFAOpieQBCqjYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQBCqjYAAABACA==/",
+      "_etag": "\"0906b4ed-0000-0200-0000-5e0f13180000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578046232
+    },
+    {
+      "id": "D34939C9E2A84985974801B518EBCEC26F3430231B8BBDAB2421A953D17D0AD0",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "HubsExtension",
+      "settingKey": "browse_recentResources",
+      "data": {
+        "version": 1.1,
+        "data": [
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/BatchDemo1",
+            "timeStamp": 1588593230132,
+            "location": "centralus"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/BatchDemo1/providers/Microsoft.Batch/batchAccounts/djibbatchdemo",
+            "timeStamp": 1578468326835,
+            "location": "westeurope"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/ElasticSearch/providers/Microsoft.Compute/virtualMachines/ElasticSearchVM",
+            "timeStamp": 1581406056281,
+            "location": "centralus"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/ElasticSearch/providers/Microsoft.Network/publicIPAddresses/ElasticSearchVM-ip",
+            "timeStamp": 1578495426973,
+            "location": "centralus"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/ElasticSearch/providers/Microsoft.DevTestLab/labs/psdemo-lab",
+            "timeStamp": 1579708639928,
+            "location": "centralus"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/main-vnet",
+            "timeStamp": 1581609809445,
+            "location": "eastus"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/main-vnet/providers/Microsoft.Network/virtualNetworks/main-vnet",
+            "timeStamp": 1581609815394,
+            "location": "eastus"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/PULTerraform/providers/Microsoft.Web/sites/pulterraformweb4e40da97",
+            "timeStamp": 1579869170188,
+            "location": "westeurope",
+            "resourceKind": "app"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/terraformrg/providers/Microsoft.Storage/storageAccounts/terraformstorage4e40da97",
+            "timeStamp": 1580376844511,
+            "location": "westus",
+            "resourceKind": "storage"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/jib-toure",
+            "timeStamp": 1593343706714,
+            "location": "centralus"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/jib-toure/providers/microsoft.insights/components/sokadi-bijoux",
+            "timeStamp": 1580374669044,
+            "location": "westeurope",
+            "resourceKind": "web"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/ElasticSearch/providers/Microsoft.Storage/storageAccounts/apsdemolab5305",
+            "timeStamp": 1580715535170,
+            "location": "centralus",
+            "resourceKind": "storagev2"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/ElasticSearch",
+            "timeStamp": 1581320109400,
+            "location": "centralus"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/cloud-shell-storage-westeurope",
+            "timeStamp": 1582621460204,
+            "location": "westeurope"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/cloud-shell-storage-westeurope/providers/Microsoft.Storage/storageAccounts/csb863d1a9113e3x47b7xb67",
+            "timeStamp": 1582621602402,
+            "location": "westeurope",
+            "resourceKind": "storagev2"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/jib-toure/providers/Microsoft.Web/sites/cert-training",
+            "timeStamp": 1592675772766,
+            "location": "centralus",
+            "resourceKind": "app"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/functioncaptcha/providers/Microsoft.Web/sites/function-captcha",
+            "timeStamp": 1592492862818,
+            "location": "centralus",
+            "resourceKind": "functionapp"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42",
+            "timeStamp": 1593343755890,
+            "name": "Abonnement Azure 1"
+          },
+          {
+            "resourceId": "/subscriptions/863d1a91-13e3-47b7-b670-d5dbc6865d42/resourceGroups/jib-toure/providers/Microsoft.Web/serverFarms/JibTestServicePlan1",
+            "timeStamp": 1592494013895,
+            "location": "centralus",
+            "resourceKind": "app"
+          }
+        ]
+      },
+      "_rid": "DnIFAOpieQBDqjYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQBDqjYAAABACA==/",
+      "_etag": "\"2000d1b5-0000-0200-0000-5ef87f1b0000\"",
+      "_attachments": "attachments/",
+      "_ts": 1593343771
+    },
+    {
+      "id": "3744851E0661A7AB8B889038A4652ADCAF99F544F8A2A957A18007E3591F949C",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "HubsExtension",
+      "settingKey": "recommendations_lastFetchTimestamp",
+      "data": {
+        "863d1a91-13e3-47b7-b670-d5dbc6865d42": "2020-06-19T07:28:24.303Z"
+      },
+      "_rid": "DnIFAOpieQB3qjYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQB3qjYAAABACA==/",
+      "_etag": "\"83003168-0000-0200-0000-5eec6a880000\"",
+      "_attachments": "attachments/",
+      "_ts": 1592552072
+    },
+    {
+      "id": "66246D356E0E20B2C9978FF03186E1F6CBDD23DF21CF00DAA86853DFC181D39D",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "Startboard",
+      "settingKey": "Startboard",
+      "data": {
+        "id": "Startboard",
+        "locator": null,
+        "widgetState": {},
+        "childSettings": {},
+        "dashboardId": "private/bf53d32a-c8b1-42c5-aa82-3bb58f906370",
+        "dashboardTitle": "Mon tableau de bord",
+        "dashboardModel": {
+          "model": {
+            "timeRange": {
+              "relative": {
+                "duration": 24,
+                "timeUnit": 1
+              }
+            }
+          },
+          "metadata": {
+            "timeRange": "MsPortalFx.Composition.Configuration.ValueTypes.TimeRange"
+          }
+        }
+      },
+      "_rid": "DnIFAOpieQCUqjYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQCUqjYAAABACA==/",
+      "_etag": "\"eb084556-0000-0200-0000-5e54e1d50000\"",
+      "_attachments": "attachments/",
+      "_ts": 1582621141
+    },
+    {
+      "id": "FCF2607E40DD6BF839D66D5083D3CFE24DBF33C571EBF48C73025E2E65B424D7",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "DashboardInventory",
+      "settingKey": "private/bf53d32a-c8b1-42c5-aa82-3bb58f906370",
+      "data": {
+        "storeName": "Dashboard0",
+        "id": "private/bf53d32a-c8b1-42c5-aa82-3bb58f906370",
+        "title": "Mon tableau de bord"
+      },
+      "_rid": "DnIFAOpieQCVqjYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQCVqjYAAABACA==/",
+      "_etag": "\"0a068344-0000-0200-0000-5e0f142e0000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578046510
+    },
+    {
+      "id": "4FB730EE59842DEECAC0EDFDF40A1C4819755258D3F76FC71A789C86053A7C22",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "Dashboard0",
+      "settingKey": "private/bf53d32a-c8b1-42c5-aa82-3bb58f906370",
+      "data": {
+        "id": "private/bf53d32a-c8b1-42c5-aa82-3bb58f906370",
+        "title": "Mon tableau de bord",
+        "settings": {
+          "StartboardPart-BrowseAllResourcesPinnedPart-bf53d32a-c8b1-42c5-aa82-3bb58f906367": {
+            "locator": {
+              "name": "BrowseAllResourcesPinnedPart",
+              "type": 6,
+              "parent": {
+                "name": "HubsExtension",
+                "type": 0
+              }
+            },
+            "partState": {
+              "v": {
+                "content": {
+                  "v": {
+                    "selectableData": {
+                      "v": {
+                        "activatedItems": {
+                          "v": []
+                        },
+                        "selectedItems": {
+                          "v": []
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "assetInstanceDefinition": {},
+            "initialSize": 2,
+            "widgetState": {
+              "NormalState": {
+                "size": 2
+              }
+            },
+            "id": "StartboardPart-BrowseAllResourcesPinnedPart-bf53d32a-c8b1-42c5-aa82-3bb58f906367",
+            "bindingsInitialized": true,
+            "dontSetupWidget": false,
+            "childSettings": {},
+            "children": [],
+            "containerModel": {
+              "v": {
+                "##SnapshotContainerId##": {
+                  "t": 1,
+                  "v": "bf53d32a-c8b1-42c5-aa82-3bb58f906366"
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "bindings": [
+              {
+                "source": {
+                  "property": "resourceType",
+                  "constantValue": "Microsoft.Resources/resources",
+                  "modelType": 5,
+                  "cardinality": 0,
+                  "scope": 0
+                },
+                "targetProperty": "resourceType",
+                "optional": false
+              }
+            ]
+          },
+          "StartboardPart-ServicesHealthPart-bf53d32a-c8b1-42c5-aa82-3bb58f906369": {
+            "locator": {
+              "name": "ServicesHealthPart",
+              "type": 6,
+              "parent": {
+                "name": "HubsExtension",
+                "type": 0
+              }
+            },
+            "partState": {
+              "v": {},
+              "#fxSerialized#": true
+            },
+            "assetInstanceDefinition": {},
+            "initialSize": 2,
+            "widgetState": {
+              "NormalState": {
+                "size": 2
+              }
+            },
+            "id": "StartboardPart-ServicesHealthPart-bf53d32a-c8b1-42c5-aa82-3bb58f906369",
+            "bindingsInitialized": true,
+            "dontSetupWidget": false,
+            "childSettings": {},
+            "children": [],
+            "containerModel": {
+              "v": {
+                "##SnapshotContainerId##": {
+                  "t": 1,
+                  "v": "bf53d32a-c8b1-42c5-aa82-3bb58f906368"
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "bindings": []
+          },
+          "StartboardPart-AzureProjectGettingStartedPart-bf53d32a-c8b1-42c5-aa82-3bb58f90636b": {
+            "locator": {
+              "name": "AzureProjectGettingStartedPart",
+              "type": 6,
+              "parent": {
+                "name": "HubsExtension",
+                "type": 0
+              }
+            },
+            "partState": {
+              "v": {},
+              "#fxSerialized#": true
+            },
+            "assetInstanceDefinition": {},
+            "initialSize": 2,
+            "widgetState": {
+              "NormalState": {
+                "size": 2
+              }
+            },
+            "id": "StartboardPart-AzureProjectGettingStartedPart-bf53d32a-c8b1-42c5-aa82-3bb58f90636b",
+            "bindingsInitialized": true,
+            "dontSetupWidget": false,
+            "childSettings": {},
+            "children": [],
+            "containerModel": {
+              "v": {
+                "##SnapshotContainerId##": {
+                  "t": 1,
+                  "v": "bf53d32a-c8b1-42c5-aa82-3bb58f90636a"
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "bindings": []
+          },
+          "StartboardPart-GettingStartedPart-bf53d32a-c8b1-42c5-aa82-3bb58f90636d": {
+            "locator": {
+              "name": "GettingStartedPart",
+              "type": 6,
+              "parent": {
+                "name": "HubsExtension",
+                "type": 0
+              }
+            },
+            "partState": {
+              "v": {},
+              "#fxSerialized#": true
+            },
+            "assetInstanceDefinition": {},
+            "initialSize": 2,
+            "widgetState": {
+              "NormalState": {
+                "size": 2
+              }
+            },
+            "id": "StartboardPart-GettingStartedPart-bf53d32a-c8b1-42c5-aa82-3bb58f90636d",
+            "bindingsInitialized": true,
+            "dontSetupWidget": false,
+            "childSettings": {},
+            "children": [],
+            "containerModel": {
+              "v": {
+                "##SnapshotContainerId##": {
+                  "t": 1,
+                  "v": "bf53d32a-c8b1-42c5-aa82-3bb58f90636c"
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "bindings": []
+          },
+          "StartboardPart-GalleryTile-bf53d32a-c8b1-42c5-aa82-3bb58f90636f": {
+            "locator": {
+              "name": "GalleryTile",
+              "type": 6,
+              "parent": {
+                "name": "HubsExtension",
+                "type": 0
+              }
+            },
+            "partState": {
+              "v": {},
+              "#fxSerialized#": true
+            },
+            "assetInstanceDefinition": {},
+            "initialSize": 2,
+            "widgetState": {
+              "NormalState": {
+                "size": 2
+              }
+            },
+            "id": "StartboardPart-GalleryTile-bf53d32a-c8b1-42c5-aa82-3bb58f90636f",
+            "bindingsInitialized": true,
+            "dontSetupWidget": false,
+            "childSettings": {},
+            "children": [],
+            "containerModel": {
+              "v": {
+                "##SnapshotContainerId##": {
+                  "t": 1,
+                  "v": "bf53d32a-c8b1-42c5-aa82-3bb58f90636e"
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "bindings": [
+              {
+                "source": {
+                  "property": "selectedMenuItemId",
+                  "constantValue": "",
+                  "modelType": 5,
+                  "cardinality": 0,
+                  "scope": 0
+                },
+                "targetProperty": "selectedMenuItemId",
+                "optional": true
+              }
+            ]
+          },
+          "Startboard": {
+            "id": "Startboard",
+            "childSettings": {},
+            "locator": null,
+            "widgetState": {
+              "NormalState": {
+                "layoutSettings": {
+                  "positions": [
+                    {
+                      "id": "StartboardPart-BrowseAllResourcesPinnedPart-bf53d32a-c8b1-42c5-aa82-3bb58f906367",
+                      "colSpan": 4,
+                      "rowSpan": 6,
+                      "position": {
+                        "col": 0,
+                        "row": 0
+                      }
+                    },
+                    {
+                      "id": "StartboardPart-ServicesHealthPart-bf53d32a-c8b1-42c5-aa82-3bb58f906369",
+                      "colSpan": 2,
+                      "rowSpan": 1,
+                      "position": {
+                        "col": 0,
+                        "row": 6
+                      }
+                    },
+                    {
+                      "id": "StartboardPart-AzureProjectGettingStartedPart-bf53d32a-c8b1-42c5-aa82-3bb58f90636b",
+                      "colSpan": 4,
+                      "rowSpan": 2,
+                      "position": {
+                        "col": 4,
+                        "row": 0
+                      }
+                    },
+                    {
+                      "id": "StartboardPart-GettingStartedPart-bf53d32a-c8b1-42c5-aa82-3bb58f90636d",
+                      "colSpan": 4,
+                      "rowSpan": 5,
+                      "position": {
+                        "col": 4,
+                        "row": 2
+                      }
+                    },
+                    {
+                      "id": "StartboardPart-GalleryTile-bf53d32a-c8b1-42c5-aa82-3bb58f90636f",
+                      "colSpan": 2,
+                      "rowSpan": 1,
+                      "position": {
+                        "col": 2,
+                        "row": 6
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            "dashboardId": "private/bf53d32a-c8b1-42c5-aa82-3bb58f906370",
+            "dashboardModel": {
+              "model": {},
+              "metadata": {}
+            }
+          }
+        }
+      },
+      "_rid": "DnIFAOpieQCXqjYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQCXqjYAAABACA==/",
+      "_etag": "\"0a06fe46-0000-0200-0000-5e0f14330000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578046515
+    },
+    {
+      "id": "480FE93A677EAE3A2B06667E91F84848D3AE3242D8D8F889A7892E524644039F",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "Favorites",
+      "settingKey": "version",
+      "data": 2,
+      "_rid": "DnIFAOpieQB+qzYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQB+qzYAAABACA==/",
+      "_etag": "\"0b0618a3-0000-0200-0000-5e0f18010000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578047489
+    },
+    {
+      "id": "B084C61D59E30A24731EA9078073DAAC30680C5AE130037C0B8E3AC779110FAA",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "Recents",
+      "settingKey": "recentServices",
+      "data": {
+        "version": 1,
+        "data": [
+          {
+            "assetId": "hubsextension_resourcegroups",
+            "timeStamp": 1593343742726
+          },
+          {
+            "assetId": "hubsextension_browseallresources",
+            "timeStamp": 1593343483722
+          },
+          {
+            "assetId": "websitesextension_appservicedomain",
+            "timeStamp": 1592547069052
+          },
+          {
+            "assetId": "websitesextension_website.functionapp",
+            "timeStamp": 1592389006954
+          },
+          {
+            "assetId": "microsoft_azure_devtestlab_devtestlab",
+            "timeStamp": 1592230620734
+          },
+          {
+            "assetId": "azuretfsextension_devopsproject",
+            "timeStamp": 1592229333223
+          },
+          {
+            "assetId": "microsoft_azure_compute_virtualmachine",
+            "timeStamp": 1578468372237
+          },
+          {
+            "assetId": "microsoft_azure_automation_account",
+            "timeStamp": 1578047726377
+          }
+        ]
+      },
+      "_rid": "DnIFAOpieQCwqzYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQCwqzYAAABACA==/",
+      "_etag": "\"2000dcb4-0000-0200-0000-5ef87f040000\"",
+      "_attachments": "attachments/",
+      "_ts": 1593343748
+    },
+    {
+      "id": "5FA4E0F28AFBFEC8912A38FB83EC85FA4B9961C7DAD37857B9F8FA7B593B833E",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "DashboardInventory",
+      "settingKey": "private/a2e92654-d332-4b12-9f66-1ed50141519c",
+      "data": {
+        "storeName": "Dashboard1",
+        "id": "private/a2e92654-d332-4b12-9f66-1ed50141519c",
+        "title": "Mon tableau de bord (2)"
+      },
+      "_rid": "DnIFAOpieQDuszYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQDuszYAAABACA==/",
+      "_etag": "\"1506b611-0000-0200-0000-5e0f38fc0000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578055932
+    },
+    {
+      "id": "942F60091610E4325B66E83A0E61B93B31E24EC2E24812C66D889368719C0715",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "DashboardInventory",
+      "settingKey": "recentDashboards",
+      "data": [
+        {
+          "id": "private/a2e92654-d332-4b12-9f66-1ed50141519c",
+          "title": "Mon tableau de bord (2)"
+        }
+      ],
+      "_rid": "DnIFAOpieQDvszYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQDvszYAAABACA==/",
+      "_etag": "\"9700c559-0000-0200-0000-5e4573880000\"",
+      "_attachments": "attachments/",
+      "_ts": 1581609864
+    },
+    {
+      "id": "3B3D6B6F8DC1266595D92AE03A0D0AD010578812883DD8FC7AAD97711EFE3356",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "Dashboard1",
+      "settingKey": "private/a2e92654-d332-4b12-9f66-1ed50141519c",
+      "data": {
+        "id": "private/a2e92654-d332-4b12-9f66-1ed50141519c",
+        "title": "Mon tableau de bord (2)",
+        "settings": {
+          "StartboardPart-ClockPart-a2e92654-d332-4b12-9f66-1ed5014151ba": {
+            "id": "StartboardPart-ClockPart-a2e92654-d332-4b12-9f66-1ed5014151ba",
+            "locator": {
+              "name": "ClockPart",
+              "type": 6,
+              "parent": {
+                "name": "HubsExtension",
+                "type": 0
+              }
+            },
+            "widgetState": {
+              "NormalState": {
+                "size": 2
+              }
+            },
+            "children": [],
+            "childSettings": {},
+            "assetInstanceDefinition": {},
+            "partState": {
+              "v": {
+                "container": {
+                  "v": {
+                    "selectable": {
+                      "v": {
+                        "isSelected": {
+                          "v": true
+                        },
+                        "isCommandSelected": {
+                          "v": false
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "initialSize": 2,
+            "bindingsInitialized": true,
+            "containerModel": {
+              "v": {
+                "assetType": {
+                  "t": 1
+                },
+                "inputs": {
+                  "t": 2,
+                  "v": {
+                    "v": []
+                  }
+                },
+                "partType": {
+                  "t": 1,
+                  "v": "ClockPart"
+                },
+                "resourceId": {
+                  "t": 1
+                },
+                "assetIdType": {
+                  "t": 1
+                },
+                "name": {
+                  "t": 1,
+                  "v": "Horloge"
+                },
+                "description": {
+                  "t": 1
+                },
+                "icon": {
+                  "t": 1,
+                  "v": {
+                    "v": {
+                      "type": {
+                        "v": 195
+                      },
+                      "data": {},
+                      "options": {
+                        "v": {
+                          "isLogo": {
+                            "v": true
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "##SnapshotContainerId##": {
+                  "t": 1,
+                  "v": "a2e92654-d332-4b12-9f66-1ed5014151bb"
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "overridesModel": {
+              "v": {
+                "##SnapshotContainerId##": {
+                  "t": 1,
+                  "v": "a2e92654-d332-4b12-9f66-1ed5014151bc"
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "bindings": [],
+            "dontSetupWidget": false
+          },
+          "[PartIdentityState]-[0]HubsExtension-[6]ClockPart-{\"##SnapshotContainerId##\":\"a2e92654-d332-4b12-9f66-1ed5014151bb\"}": {},
+          "StartboardPart-UserManagementSummaryPart-a2e92654-d332-4b12-9f66-1ed5014151d4": {
+            "id": "StartboardPart-UserManagementSummaryPart-a2e92654-d332-4b12-9f66-1ed5014151d4",
+            "locator": {
+              "name": "UserManagementSummaryPart",
+              "type": 6,
+              "parent": {
+                "name": "Microsoft_AAD_IAM",
+                "type": 0
+              }
+            },
+            "widgetState": {
+              "NormalState": {
+                "size": 2
+              }
+            },
+            "children": [],
+            "childSettings": {},
+            "assetInstanceDefinition": {},
+            "partState": {
+              "v": {
+                "container": {
+                  "v": {
+                    "selectable": {
+                      "v": {
+                        "isSelected": {
+                          "v": false
+                        },
+                        "isCommandSelected": {
+                          "v": false
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "initialSize": 2,
+            "bindingsInitialized": true,
+            "savedContainerState": {
+              "partTitle": "Utilisateurs et groupes",
+              "assetName": null
+            },
+            "containerModel": {
+              "v": {
+                "assetType": {
+                  "t": 1
+                },
+                "inputs": {
+                  "t": 2,
+                  "v": {
+                    "v": []
+                  }
+                },
+                "partType": {
+                  "t": 1,
+                  "v": "UserManagementSummaryPart"
+                },
+                "resourceId": {
+                  "t": 1
+                },
+                "assetIdType": {
+                  "t": 1
+                },
+                "name": {
+                  "t": 1,
+                  "v": "Utilisateurs et groupes"
+                },
+                "description": {
+                  "t": 1,
+                  "v": "Résumé des groupes et de l'utilisateur"
+                },
+                "icon": {
+                  "t": 1,
+                  "v": {
+                    "v": {
+                      "type": {
+                        "v": 3
+                      },
+                      "data": {},
+                      "options": {
+                        "v": {
+                          "isLogo": {
+                            "v": true
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "##SnapshotContainerId##": {
+                  "t": 1,
+                  "v": "a2e92654-d332-4b12-9f66-1ed5014151d5"
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "overridesModel": {
+              "v": {
+                "##SnapshotContainerId##": {
+                  "t": 1,
+                  "v": "a2e92654-d332-4b12-9f66-1ed5014151d6"
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "bindings": [],
+            "dontSetupWidget": false
+          },
+          "StartboardPart-UnboundPart-a2e92654-d332-4b12-9f66-1ed501415209": {
+            "id": "StartboardPart-UnboundPart-a2e92654-d332-4b12-9f66-1ed501415209",
+            "locator": {
+              "name": "UnboundPart",
+              "type": 6,
+              "parent": {
+                "name": "HubsExtension",
+                "type": 0
+              }
+            },
+            "widgetState": {
+              "NormalState": {
+                "size": 5
+              }
+            },
+            "children": [],
+            "childSettings": {},
+            "assetInstanceDefinition": {},
+            "partState": {
+              "v": {},
+              "#fxSerialized#": true
+            },
+            "initialSize": 5,
+            "bindingsInitialized": true,
+            "savedContainerState": {
+              "partTitle": null,
+              "assetName": "ApplicationInsights"
+            },
+            "containerModel": {
+              "v": {
+                "assetType": {
+                  "t": 1,
+                  "v": "ApplicationInsights"
+                },
+                "inputs": {
+                  "t": 2,
+                  "v": {
+                    "v": [
+                      {
+                        "v": {
+                          "name": {
+                            "v": "ComponentId"
+                          },
+                          "type": {
+                            "v": "Key"
+                          },
+                          "optional": {
+                            "v": false
+                          },
+                          "isAssetId": {
+                            "v": true
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "partType": {
+                  "t": 1,
+                  "v": "UnboundPart"
+                },
+                "resourceId": {
+                  "t": 1
+                },
+                "assetIdType": {
+                  "t": 1
+                },
+                "name": {
+                  "t": 1,
+                  "v": "Récapitulatif du test de disponibilité"
+                },
+                "description": {
+                  "t": 1
+                },
+                "icon": {
+                  "t": 1,
+                  "v": {
+                    "v": {
+                      "type": {
+                        "v": 1005
+                      },
+                      "data": {},
+                      "options": {
+                        "v": {
+                          "isLogo": {
+                            "v": true
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "extensionName": {
+                  "t": 1,
+                  "v": "HubsExtension"
+                },
+                "assetExtension": {
+                  "t": 1,
+                  "v": "AppInsightsExtension"
+                },
+                "mutatedPartType": {
+                  "t": 1,
+                  "v": "AllWebTestsResponseTimeFullGalleryAdapterPart"
+                },
+                "##SnapshotContainerId##": {
+                  "t": 1,
+                  "v": "a2e92654-d332-4b12-9f66-1ed50141520a"
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "overridesModel": {
+              "v": {
+                "##SnapshotContainerId##": {
+                  "t": 1,
+                  "v": "a2e92654-d332-4b12-9f66-1ed50141520b"
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "bindings": [
+              {
+                "targetProperty": "name",
+                "optional": false,
+                "source": {
+                  "property": "name",
+                  "modelType": -999,
+                  "scope": 0,
+                  "cardinality": 0
+                },
+                "isDynamicBinding": true
+              },
+              {
+                "targetProperty": "assetType",
+                "optional": false,
+                "source": {
+                  "property": "assetType",
+                  "modelType": -999,
+                  "scope": 0,
+                  "cardinality": 0
+                },
+                "isDynamicBinding": true
+              },
+              {
+                "targetProperty": "assetExtension",
+                "optional": false,
+                "source": {
+                  "property": "assetExtension",
+                  "modelType": -999,
+                  "scope": 0,
+                  "cardinality": 0
+                },
+                "isDynamicBinding": true
+              },
+              {
+                "targetProperty": "description",
+                "optional": true,
+                "source": {
+                  "property": "description",
+                  "modelType": -999,
+                  "scope": 0,
+                  "cardinality": 0
+                },
+                "isDynamicBinding": true
+              },
+              {
+                "targetProperty": "icon",
+                "optional": true,
+                "source": {
+                  "property": "icon",
+                  "modelType": -999,
+                  "scope": 0,
+                  "cardinality": 0
+                },
+                "isDynamicBinding": true
+              },
+              {
+                "targetProperty": "mutatedPartType",
+                "optional": false,
+                "source": {
+                  "property": "mutatedPartType",
+                  "modelType": -999,
+                  "scope": 0,
+                  "cardinality": 0
+                },
+                "isDynamicBinding": true
+              }
+            ],
+            "dontSetupWidget": false
+          },
+          "StartboardPart-ArgQueryGridTile-a2e92654-d332-4b12-9f66-1ed5014151db": {
+            "id": "StartboardPart-ArgQueryGridTile-a2e92654-d332-4b12-9f66-1ed5014151db",
+            "locator": {
+              "name": "ArgQueryGridTile",
+              "type": 6,
+              "parent": {
+                "name": "HubsExtension",
+                "type": 0
+              }
+            },
+            "widgetState": {
+              "NormalState": {
+                "size": 11
+              }
+            },
+            "children": [],
+            "childSettings": {},
+            "assetInstanceDefinition": {},
+            "partState": {
+              "v": {},
+              "#fxSerialized#": true
+            },
+            "initialSize": 11,
+            "bindingsInitialized": true,
+            "savedContainerState": {
+              "partTitle": "Mosaïque de grilles Resource Graph",
+              "assetName": "Requête Resource Graph privée"
+            },
+            "containerModel": {
+              "v": {
+                "assetType": {
+                  "t": 1
+                },
+                "inputs": {
+                  "t": 2,
+                  "v": {
+                    "v": [
+                      {
+                        "v": {
+                          "name": {
+                            "v": "partTitle"
+                          },
+                          "optional": {
+                            "v": true
+                          },
+                          "isAssetId": {
+                            "v": false
+                          }
+                        }
+                      },
+                      {
+                        "v": {
+                          "name": {
+                            "v": "query"
+                          },
+                          "optional": {
+                            "v": true
+                          },
+                          "isAssetId": {
+                            "v": false
+                          }
+                        }
+                      },
+                      {
+                        "v": {
+                          "name": {
+                            "v": "chartType"
+                          },
+                          "optional": {
+                            "v": true
+                          },
+                          "isAssetId": {
+                            "v": false
+                          }
+                        }
+                      },
+                      {
+                        "v": {
+                          "name": {
+                            "v": "isShared"
+                          },
+                          "optional": {
+                            "v": true
+                          },
+                          "isAssetId": {
+                            "v": false
+                          }
+                        }
+                      },
+                      {
+                        "v": {
+                          "name": {
+                            "v": "queryId"
+                          },
+                          "optional": {
+                            "v": true
+                          },
+                          "isAssetId": {
+                            "v": false
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                "partType": {
+                  "t": 1,
+                  "v": "ArgQueryGridTile"
+                },
+                "resourceId": {
+                  "t": 1
+                },
+                "assetIdType": {
+                  "t": 1
+                },
+                "name": {
+                  "t": 1,
+                  "v": "Mosaïque de grilles Resource Graph"
+                },
+                "description": {
+                  "t": 1
+                },
+                "icon": {
+                  "t": 1,
+                  "v": {
+                    "v": {
+                      "type": {
+                        "v": 1
+                      },
+                      "data": {
+                        "v": "<svg viewBox='0 0 50 50' class='msportalfx-svg-placeholder' role='presentation' focusable='false' xmlns:svg='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><g><title></title><path d='M5.45 11.263l3.1-2.527 22 26.999-3.1 2.526z' class='msportalfx-svg-c03'/><path d='M7 8h33v4H7z' class='msportalfx-svg-c03'/><circle cx='7' cy='10' r='6.9' class='msportalfx-svg-c17'/><circle opacity='.2' cx='7' cy='10' r='6.9' class='msportalfx-svg-c01'/><circle cx='40' cy='10' r='8.9' class='msportalfx-svg-c17'/><circle opacity='.1' cx='40' cy='10' r='8.9' class='msportalfx-svg-c01'/><circle cx='29' cy='37' r='11.9' class='msportalfx-svg-c17'/></g></svg>"
+                      },
+                      "options": {
+                        "v": {
+                          "isLogo": {
+                            "v": true
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "##SnapshotContainerId##": {
+                  "t": 1,
+                  "v": "a2e92654-d332-4b12-9f66-1ed5014151dc"
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "overridesModel": {
+              "v": {
+                "##SnapshotContainerId##": {
+                  "t": 1,
+                  "v": "a2e92654-d332-4b12-9f66-1ed5014151dd"
+                }
+              },
+              "#fxSerialized#": true
+            },
+            "bindings": [
+              {
+                "targetProperty": "partTitle",
+                "optional": true,
+                "source": {
+                  "property": "partTitle",
+                  "modelType": -999,
+                  "scope": 0,
+                  "cardinality": 0
+                },
+                "isDynamicBinding": true
+              },
+              {
+                "targetProperty": "query",
+                "optional": true,
+                "source": {
+                  "property": "query",
+                  "modelType": -999,
+                  "scope": 0,
+                  "cardinality": 0
+                },
+                "isDynamicBinding": true
+              },
+              {
+                "targetProperty": "chartType",
+                "optional": true,
+                "source": {
+                  "property": "chartType",
+                  "modelType": -999,
+                  "scope": 0,
+                  "cardinality": 0
+                },
+                "isDynamicBinding": true
+              },
+              {
+                "targetProperty": "isShared",
+                "optional": true,
+                "source": {
+                  "property": "isShared",
+                  "modelType": -999,
+                  "scope": 0,
+                  "cardinality": 0
+                },
+                "isDynamicBinding": true
+              },
+              {
+                "targetProperty": "queryId",
+                "optional": true,
+                "source": {
+                  "property": "queryId",
+                  "modelType": -999,
+                  "scope": 0,
+                  "cardinality": 0
+                },
+                "isDynamicBinding": true
+              }
+            ],
+            "dontSetupWidget": false
+          },
+          "[PartIdentityState]-[0]HubsExtension-[6]ArgQueryGridTile-{\"##SnapshotContainerId##\":\"a2e92654-d332-4b12-9f66-1ed5014151dc\"}": {},
+          "Startboard": {
+            "id": "Startboard",
+            "locator": null,
+            "widgetState": {
+              "NormalState": {
+                "layoutSettings": {
+                  "positions": [
+                    {
+                      "id": "StartboardPart-ClockPart-a2e92654-d332-4b12-9f66-1ed5014151ba",
+                      "position": {
+                        "col": 0,
+                        "row": 0
+                      },
+                      "rowSpan": 2,
+                      "colSpan": 2
+                    },
+                    {
+                      "id": "StartboardPart-UserManagementSummaryPart-a2e92654-d332-4b12-9f66-1ed5014151d4",
+                      "position": {
+                        "col": 0,
+                        "row": 2
+                      },
+                      "colSpan": 2,
+                      "rowSpan": 2
+                    },
+                    {
+                      "id": "StartboardPart-ArgQueryGridTile-a2e92654-d332-4b12-9f66-1ed5014151db",
+                      "position": {
+                        "col": 2,
+                        "row": 8
+                      },
+                      "colSpan": 6,
+                      "rowSpan": 6
+                    },
+                    {
+                      "id": "StartboardPart-UnboundPart-a2e92654-d332-4b12-9f66-1ed501415209",
+                      "position": {
+                        "col": 2,
+                        "row": 4
+                      },
+                      "colSpan": 6,
+                      "rowSpan": 4
+                    }
+                  ]
+                }
+              }
+            },
+            "childSettings": {},
+            "dashboardId": "private/a2e92654-d332-4b12-9f66-1ed50141519c",
+            "dashboardTitle": "Mon tableau de bord (2)",
+            "dashboardModel": {
+              "model": {
+                "timeRange": {
+                  "relative": {
+                    "duration": 24,
+                    "timeUnit": 1
+                  }
+                }
+              },
+              "metadata": {
+                "timeRange": "MsPortalFx.Composition.Configuration.ValueTypes.TimeRange"
+              }
+            }
+          }
+        }
+      },
+      "_rid": "DnIFAOpieQDwszYAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQDwszYAAABACA==/",
+      "_etag": "\"1506211e-0000-0200-0000-5e0f392e0000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578055982
+    },
+    {
+      "id": "32D35EC1773F14A8966B81743278018CB474CB010271F46F1BE45ADF4303A18B",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "HubsExtension",
+      "settingKey": "gallery_createLauncher_lastUsed_resourceGroupLocation",
+      "data": "centralus",
+      "_rid": "DnIFAOpieQCrgzcAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQCrgzcAAABACA==/",
+      "_etag": "\"1f080a5d-0000-0200-0000-5e147bb10000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578400689
+    },
+    {
+      "id": "5469A84D969CA3D6D5CDF2A03DCB926EE67F3AD7CF2F52358760901B42FABFD4",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "HubsExtension",
+      "settingKey": "deployments_lastUsed_locations",
+      "data": {
+        "centralus": 1578573876863
+      },
+      "_rid": "DnIFAOpieQCsgzcAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQCsgzcAAABACA==/",
+      "_etag": "\"050a7e47-0000-0200-0000-5e17203a0000\"",
+      "_attachments": "attachments/",
+      "_ts": 1578573882
+    },
+    {
+      "id": "1139DFE259DB9E8C9152E1F2DA6864B44288F9DD26DA80894F8BDB5C823B1F12",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "General",
+      "settingKey": "searchHistory",
+      "data": "[\"Domaine App Service\",\"Funct\",\"Func\",\"Fun\",\"fun\",\"devop\"]",
+      "_rid": "DnIFAOpieQCEwzcAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQCEwzcAAABACA==/",
+      "_etag": "\"76001daf-0000-0200-0000-5eeb90d30000\"",
+      "_attachments": "attachments/",
+      "_ts": 1592496339
+    },
+    {
+      "id": "CF53E6FDA92D4E1795772BB5BC3E5CC63EF9F4E2D2B63059F8C80BB4F85B899F",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "store": "StartupNotifications",
+      "settingKey": "AdvisorNotification",
+      "data": 1592229262247,
+      "ttl": 5184000,
+      "_rid": "DnIFAOpieQBQ6WkAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQBQ6WkAAABACA==/",
+      "_etag": "\"0700fee5-0000-0200-0000-5ee77d8f0000\"",
+      "_attachments": "attachments/",
+      "_ts": 1592229263
+    },
+    {
+      "id": "DD5E9DC43CD83F5447E0F089350CA7FBDB9BEFC02718C03F2514005AA680F398",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "Recents",
+      "settingKey": "mruTokens",
+      "data": {
+        "Microsoft_Azure_MonitoringAz": [
+          "loganalyticsapi"
+        ],
+        "WebsitesExtension": [
+          "azureTfsApi"
+        ]
+      },
+      "_rid": "DnIFAOpieQCj7GkAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQCj7GkAAABACA==/",
+      "_etag": "\"25007e89-0000-0200-0000-5ee8d2080000\"",
+      "_attachments": "attachments/",
+      "_ts": 1592316424
+    },
+    {
+      "id": "02E7C64C1E8B803B90868C4819697E8CAB6DF5C35B2D099F872B48808B37ADBA",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "Browse",
+      "settingKey": "HelpDismissed",
+      "data": {
+        "ViewManagement": true,
+        "LastLocation": null
+      },
+      "_rid": "DnIFAOpieQCVXmoAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQCVXmoAAABACA==/",
+      "_etag": "\"2300048c-0000-0200-0000-5ee8be990000\"",
+      "_attachments": "attachments/",
+      "_ts": 1592311449
+    },
+    {
+      "id": "BC718EBF11225554DF382B1AB7E2E003DF3BF72D93A0148B26F2036F513E267C",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "General",
+      "settingKey": "npsTimeMs",
+      "data": 1592314051253,
+      "_rid": "DnIFAOpieQC5ZGoAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQC5ZGoAAABACA==/",
+      "_etag": "\"2400b79c-0000-0200-0000-5ee8c8c80000\"",
+      "_attachments": "attachments/",
+      "_ts": 1592314056
+    },
+    {
+      "id": "1548D51825CA7ACF5BCA5CC915E465572AAD5E9CAB838FBF19EE1281A41630E1",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "Part",
+      "settingKey": "[PartIdentityState]-[0]Microsoft_Azure_AD-[1]AccessControlBlade-[2]TemplateBladeVirtualLens-[5]AccessControlBlade",
+      "data": {
+        "v": {
+          "content": {
+            "v": {
+              "bladeSettings": {
+                "v": {
+                  "accesscontrolblade": {
+                    "v": {
+                      "ipfDt": {
+                        "v": 1592323047443
+                      },
+                      "ipfSessionId": {
+                        "v": "6e68575e04894b028468e108c2cdb747"
+                      },
+                      "userAction": {
+                        "v": 0
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "#fxSerialized#": true
+      },
+      "ttl": 7776000,
+      "_rid": "DnIFAOpieQAXcmoAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQAXcmoAAABACA==/",
+      "_etag": "\"2800794f-0000-0200-0000-5ee8ebec0000\"",
+      "_attachments": "attachments/",
+      "_ts": 1592323052
+    },
+    {
+      "id": "A13E1F84E81BA753719A0127DDDE69A5FADEF7BD2A501AF7DDE154FFF7A770C5",
+      "partitionKey": "1003200093B242DA",
+      "environment": "default",
+      "tenant": "21143689-1853-47f3-b143-5462761705f6",
+      "store": "Part",
+      "settingKey": "[PartIdentityState]-[0]Microsoft_Azure_Monitoring-[1]AlertsManagementSummaryBlade-[2]TemplateBladeVirtualLens-[5]AlertsManagementSummaryBlade",
+      "data": {
+        "v": {
+          "content": {
+            "v": {
+              "columnSettings": {
+                "v": [
+                  {
+                    "v": {
+                      "itemKey": {
+                        "v": "severity"
+                      },
+                      "displayName": {
+                        "v": "Gravité"
+                      },
+                      "checked": {
+                        "v": true
+                      },
+                      "disabled": {
+                        "v": false
+                      },
+                      "defaultChecked": {
+                        "v": true
+                      },
+                      "defaultPos": {
+                        "v": 0
+                      },
+                      "infoBalloonContent": {}
+                    }
+                  },
+                  {
+                    "v": {
+                      "itemKey": {
+                        "v": "totalAbsolute"
+                      },
+                      "displayName": {
+                        "v": "Nombre total d'alertes"
+                      },
+                      "checked": {
+                        "v": true
+                      },
+                      "disabled": {
+                        "v": true
+                      },
+                      "defaultChecked": {
+                        "v": true
+                      },
+                      "defaultPos": {
+                        "v": 1
+                      },
+                      "infoBalloonContent": {}
+                    }
+                  },
+                  {
+                    "v": {
+                      "itemKey": {
+                        "v": "newAlerts"
+                      },
+                      "displayName": {
+                        "v": "Nouveau"
+                      },
+                      "checked": {
+                        "v": true
+                      },
+                      "disabled": {
+                        "v": true
+                      },
+                      "defaultChecked": {
+                        "v": true
+                      },
+                      "defaultPos": {
+                        "v": 2
+                      },
+                      "infoBalloonContent": {}
+                    }
+                  },
+                  {
+                    "v": {
+                      "itemKey": {
+                        "v": "acknowledgedAlerts"
+                      },
+                      "displayName": {
+                        "v": "Reconnu"
+                      },
+                      "checked": {
+                        "v": true
+                      },
+                      "disabled": {
+                        "v": true
+                      },
+                      "defaultChecked": {
+                        "v": true
+                      },
+                      "defaultPos": {
+                        "v": 3
+                      },
+                      "infoBalloonContent": {}
+                    }
+                  },
+                  {
+                    "v": {
+                      "itemKey": {
+                        "v": "closedAlerts"
+                      },
+                      "displayName": {
+                        "v": "Clôturé(e)"
+                      },
+                      "checked": {
+                        "v": true
+                      },
+                      "disabled": {
+                        "v": true
+                      },
+                      "defaultChecked": {
+                        "v": true
+                      },
+                      "defaultPos": {
+                        "v": 4
+                      },
+                      "infoBalloonContent": {}
+                    }
+                  }
+                ]
+              },
+              "displayMigrationNotificationValue": {},
+              "registeredOnce": {
+                "v": true
+              },
+              "registeredSubscriptions": {
+                "v": "863d1a91-13e3-47b7-b670-d5dbc6865d42"
+              }
+            }
+          }
+        },
+        "#fxSerialized#": true
+      },
+      "ttl": 7776000,
+      "_rid": "DnIFAOpieQCYeGoAAABACA==",
+      "_self": "dbs/DnIFAA==/colls/DnIFAOpieQA=/docs/DnIFAOpieQCYeGoAAABACA==/",
+      "_etag": "\"28001b63-0000-0200-0000-5ee8ecbe0000\"",
+      "_attachments": "attachments/",
+      "_ts": 1592323262
+    }
+  ]
+}
